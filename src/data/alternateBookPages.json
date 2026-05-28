@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "type": "front-cover",
+    "title": "THE ART OF MINIMALISM",
+    "subtitle": "Finding Peace in Space",
+    "category": "ZEN DESIGN JOURNAL",
+    "author": "Yuki Tanaka",
+    "date": "Spring 2026",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&q=80&w=800",
+    "quote": "Simplification is the ultimate sophistication.",
+    "content": "A thoughtful exploration of interior layouts, Japanese gardening philosophy, typography hierarchy, and the art of leaving blank space.",
+    "footerNote": "Volume II • Collector's Edition"
+  },
+  {
+    "id": 2,
+    "type": "normal-page",
+    "title": "Index of Thoughts",
+    "subtitle": "Chapters of Simplicity",
+    "category": "CONTENTS",
+    "items": [
+      { "category": "01. ESSENTION", "title": "The Meaning of Ma", "description": "Understanding the Japanese concept of physical and emotional negative space.", "page": 3 },
+      { "category": "02. PRACTICE", "title": "Tactile Materials", "description": "Why natural wood, unfinished stone, and raw papers anchor the human sensory field.", "page": 4 },
+      { "category": "03. HABITAT", "title": "The Single Room", "description": "How decluttering your surrounding atmosphere restores neural homeostasis.", "page": 5 },
+      { "category": "04. DESIGN", "title": "Mono Typography", "description": "Finding silent beauty in monospaced geometry and aligned letterforms.", "page": 6 },
+      { "category": "05. RITUALS", "title": "Morning Matcha", "description": "Slow tea preparation as active meditation in a high-speed world.", "page": 7 },
+      { "category": "06. CODA", "title": "Unfinished Outlines", "description": "Celebrating imperfection and the fleeting passage of seasonal hours.", "page": 8 }
+    ],
+    "footerNote": "Zen Design Journal • Page 2"
+  },
+  {
+    "id": 3,
+    "type": "normal-page",
+    "category": "ESSENTION",
+    "title": "The Meaning of Ma",
+    "subtitle": "The Luxury of Empty Intervals",
+    "author": "By Yuki Tanaka, Curator",
+    "date": "April 2026",
+    "image": "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?auto=format&fit=crop&q=80&w=600",
+    "sections": [
+      {
+        "title": "What is 'Ma'?",
+        "content": "In Western design, space is often treated as negative - an empty void to be filled with graphics, furniture, or text. In classic Japanese philosophy, 'Ma' (間) is defined as a conscious, structural pause. It is the silence between musical notes that defines the rhythm, or the empty floor that gives the room its purpose."
+      },
+      {
+        "title": "Breathing Room in the Screen Age",
+        "content": "Our modern devices bombard us with infinite dense information. By deliberately introducing wide gutters, massive margins, and humble headers, we grant the user's focus the freedom to simply wander and rest."
+      }
+    ],
+    "footerNote": "Zen Design Journal • Page 3"
+  },
+  {
+    "id": 4,
+    "type": "normal-page",
+    "category": "PRACTICE",
+    "title": "Tactile Materials",
+    "subtitle": "Connecting with the Natural Canvas",
+    "author": "Atelier Shima",
+    "sections": [
+      {
+        "title": "The Power of Texture",
+        "content": "When everything we interact with is a slick sheet of Gorilla Glass, our fingers crave physical resistance. Natural linen covers, recycled hemp cardstocks, and hand-cast paper elements carry micro-imperfections that trigger biological memory."
+      },
+      {
+        "title": "Wabi-Sabi Aesthetics",
+        "content": "Rather than demanding pure mirrored plastics or perfect color matches, traditional homes highlight weathering. A tea bowl with gold-veined cracks (kintsugi) is more beloved than a pristine factory ceramic because it tells a story of time."
+      }
+    ],
+    "highlights": [
+      "Preferred woods: Hinoki cypress and charred cedar (Yakisugi)",
+      "Colors: Muted tatami greens, slate black, and linen white",
+      "Principles: Raw finish, irregular borders, zero artificial gloss"
+    ],
+    "footerNote": "Zen Design Journal • Page 4"
+  },
+  {
+    "id": 5,
+    "type": "normal-page",
+    "category": "HABITAT",
+    "title": "The Single Room",
+    "subtitle": "Restoring Neural Calm",
+    "author": "Kenji Sato, Architect",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&q=80&w=600",
+    "sections": [
+      {
+        "title": "Visual Noise Reduction",
+        "content": "Every object in your sight line makes a silent demand on your cognitive bandwidth. A stray charging cable, a busy logo, an unread mail stack - these are ambient micro-stressors. Storing items inside sliding Shoji doors instantly lowers cortisol levels."
+      },
+      {
+        "title": "Setting the Stage",
+        "content": "An ideal minimalist study contains only three items: a solid timber desk, a single comfortable chair, and a living botanical element (a tiny bonsai or fresh wildflower branch) placed to catch the morning sunlight."
+      }
+    ],
+    "footerNote": "Zen Design Journal • Page 5"
+  },
+  {
+    "id": 6,
+    "type": "normal-page",
+    "category": "DESIGN",
+    "title": "Mono Typography",
+    "subtitle": "Finding Beauty in Technical Rigor",
+    "author": "Yuki Tanaka",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&q=80&w=600",
+    "quote": "‘A single well-set word on an otherwise empty page speaks louder than a crowded volume of generic paragraphs.’",
+    "authorQuote": "— Master Calligrapher Soseki",
+    "sections": [
+      {
+        "title": "Mathematical Cleanness",
+        "content": "Using monospaced text forces letters to occupy identical grid widths. This brings a mechanical, technical grid rhythm that pairs beautifully with soft, organic illustrations or charcoal ink paintings."
+      },
+      {
+        "title": "Hierarchy Rules",
+        "content": "To build an exquisite layouts, limit yourself to exactly two font sizes and one color tone. Let size contrast and strategic tracking (letter spacing) communicate the hierarchy."
+      }
+    ],
+    "footerNote": "Zen Design Journal • Page 6"
+  },
+  {
+    "id": 7,
+    "type": "normal-page",
+    "category": "RITUALS",
+    "title": "Morning Matcha",
+    "subtitle": "Preparation as Active Meditation",
+    "author": "Tea Master Choyu",
+    "sections": [
+      {
+        "title": "The 5-Minute Oasis",
+        "content": "Preparing matcha is not about biological fueling; it is about absolute presence. Sifting the powder, heating the spring water to exactly 80°C, and whisking with a single piece of carved bamboo in a slow circular motion organizes the mind."
+      },
+      {
+        "title": "The Lessons of Tea",
+        "content": "The four tenets of the tea path are harmony (wa), respect (kei), purity (sei), and tranquility (jaku). These serve as a diagnostic framework for how we treat others, how we utilize objects, and how we curate our thoughts."
+      }
+    ],
+    "highlights": [
+      "Harmony: Blending with current weather and seasonal change",
+      "Respect: Grateful handling of craft utensils and clay bowls",
+      "Tranquility: Entering a state of timeless, quiet equilibrium"
+    ],
+    "footerNote": "Zen Design Journal • Page 7"
+  },
+  {
+    "id": 8,
+    "type": "back-cover",
+    "title": "Simplicity is Enough",
+    "category": "CODA",
+    "image": "https://images.unsplash.com/photo-1542224566-6e85f2e6772f?auto=format&fit=crop&q=80&w=800",
+    "quote": "A peaceful heart sees beauty in weathered stone and falling leaves.",
+    "content": "The Zen Design Journal is published bi-annually. Thank you for walking this paths of silence, space, and simple intentions with us.",
+    "footerNote": "All rights reserved © 2026 Space & Stone Press"
+  }
+]

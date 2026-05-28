@@ -1,0 +1,6 @@
+{
+  "name": "Ebook Reader",
+  "description": "A high-fidelity modern digital ebook and magazine reader with full-screen support, zoom functionality, status tracking, and 3D fluid page-turn animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
